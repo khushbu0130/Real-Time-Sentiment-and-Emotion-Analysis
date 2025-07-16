@@ -1,4 +1,4 @@
-# sena.ai
+# Real-Time-Sentiment-and-Emotion-Analysis
 
 ## Gain Insights with Our Powerful AI-Driven Sentiment Analysis Tool
 
